@@ -1,2 +1,3 @@
-# alx-interview
-This is all about various interview type questions 
+# Alx interview
+
+![](https://cdn.hackr.io/uploads/posts/large/15759726651KAkD5SnJT.png)
